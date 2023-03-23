@@ -63,7 +63,7 @@ function buyQuizz() {
 // Unlocking stuff to buy
 
 
-setInterval(showingStuffToBuy, 500);
+setInterval(showingStuffToBuy, 10);
 
 
 function showingStuffToBuy() {
