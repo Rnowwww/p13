@@ -62,6 +62,10 @@ function buyQuizz() {
 
 // Unlocking stuff to buy
 
+
+setInterval(showingStuffToBuy, 500);
+
+
 function showingStuffToBuy() {
   showingFbInStr();
   undisplayFbInStr();
